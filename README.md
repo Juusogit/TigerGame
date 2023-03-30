@@ -1,6 +1,6 @@
 Kuka pelkää tiikeriä?
 
-Yksinkertainen peli, jossa hyödynnetään Jetpack Compose -käyttöliittymäkirjastoa.
+Yksinkertainen "peli", jossa hyödynnetään Jetpack Compose -käyttöliittymäkirjastoa.
 
 https://www.youtube.com/watch?v=OwDRLpG8_MY
 
