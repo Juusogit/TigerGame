@@ -18,4 +18,4 @@ over 2800 likes on 22 of June in 2021.
 
 Camoon tiikeri, näytä muna!. Know Your Meme, https://knowyourmeme.com/memes/camoon-tiikeri-nayta-muna. Luettu 31.3.2023
 
-Idea peliin ja sen toteuttamiseen tuli alkuperäisestä tiikerivideosta, sekä sakarin villapaitapelistä.
+Idea peliin ja sen toteuttamiseen tuli alkuperäisestä tiikerivideosta, sekä Sakarin villapaitapelistä.
