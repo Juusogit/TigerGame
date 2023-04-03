@@ -16,6 +16,7 @@ Daddy Official Visualizer (feat. Hessu & Korhone). The quote has also been remix
 and song on YouTube in 15th of November in 2019. "Camoon tiikeri näytä muna REMIX" has 179 thousand views and
 over 2800 likes on 22 of June in 2021.
 
+Lähde:
 Camoon tiikeri, näytä muna!. Know Your Meme, https://knowyourmeme.com/memes/camoon-tiikeri-nayta-muna. Luettu 31.3.2023
 
 Idea peliin ja sen toteuttamiseen tuli alkuperäisestä tiikerivideosta, sekä Sakarin villapaitapelistä.
