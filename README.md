@@ -1,4 +1,4 @@
-Who's afraid of tiger?
+Who's afraid of tiger? Sakarin Villapaitapeli spinoff.
 
 Kotlin "game" project to learn Jetpack Compose framework.
 
